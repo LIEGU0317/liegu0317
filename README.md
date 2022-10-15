@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning deep learning
 - 👩‍❤‍👨 I’m looking for a partner of the opposite sex
-- 📫 Email: liegu0317@qq.com
+<!-- - 📫 Email: liegu0317@qq.com -->
+- 😝 I’m currently learning and sharing on [my blog](https://liegu0317.github.io/), welcome~
 
 <!--
 **LIEGU0317/liegu0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
