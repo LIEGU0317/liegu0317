@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-- 🌱 I'm currently learning deep learning even though I don't like it
+- 🌱 I'm trying to improve myself
+  - 🌱 我正在努力提升自己
 - 👩‍❤‍👨 I’m looking for a partner of the opposite sex
+  - 👩‍❤‍👨 我正在寻找异性伴侣
 - 📫 Email: liegu0317@qq.com
+  - 📫 邮箱: liegu0317@qq.com
 - 😝 I’m currently learning and sharing on [my blog](https://liegu0317.github.io/), welcome~
+  - 😝 目前正在[我的博客](https://liegu0317.github.io/)上学习和分享，欢迎你~
+
 
 <!--
 **LIEGU0317/liegu0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
