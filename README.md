@@ -2,8 +2,6 @@
 
 - 🌱 I'm trying to improve myself
   - 🌱 我正在努力提升自己
-- 👩‍❤‍👨 I’m looking for a partner of the opposite sex
-  - 👩‍❤‍👨 我正在寻找异性伴侣
 - 📫 Email: liegu0317@qq.com
   - 📫 邮箱: liegu0317@qq.com
 - 😝 I’m currently learning and sharing on [my blog](https://liegu0317.github.io/), welcome~
