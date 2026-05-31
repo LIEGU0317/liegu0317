@@ -6,7 +6,7 @@
 - 😝 I'm currently learning and sharing on [my homepage](https://liegu0317.top/), welcome~
   - 😝 目前正在[我的主页](https://liegu0317.top/)上学习和分享，欢迎你~
 
-<a href="https://github.com/LIEGU0317/liegu0317"><img align="center" src="https://github-readme-stats-gamma-eight-85.vercel.app/api/top-langs/?username=LIEGU0317&layout=compact&theme=rose&hide_border=true&count_private=true" /></a>
+<a href="https://github.com/LIEGU0317/liegu0317"><img align="center" src="https://github-readme-stats-gamma-eight-85.vercel.app/api/top-langs/?username=LIEGU0317&layout=compact&theme=rose&hide_border=true&count_private=true&t=20260531" /></a>
 
-<a href="https://github.com/LIEGU0317/liegu0317"><img align="center" src="https://github-readme-stats-gamma-eight-85.vercel.app/api/?username=LIEGU0317&theme=rose&hide_border=true&count_private=true" /></a>
+<a href="https://github.com/LIEGU0317/liegu0317"><img align="center" src="https://github-readme-stats-gamma-eight-85.vercel.app/api/?username=LIEGU0317&theme=rose&hide_border=true&count_private=true&t=20260531" /></a>
 
